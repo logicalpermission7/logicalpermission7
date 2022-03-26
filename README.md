@@ -1,7 +1,7 @@
 ### Hi there my name is Elvis! 👋
 
 
-<iframe src="https://giphy.com/embed/1gUWd4WvTmZjNDz739" width=“100” height=“100” frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/callofduty-call-of-duty-wwii-ww2-1gUWd4WvTmZjNDz739">via GIPHY</a></p>
+<img src="https://giphy.com/embed/1gUWd4WvTmZjNDz739/giphy.gif" width="40" height="40" />
 
 - 🔭 I’m currently working on ...The WEB3
 - 🌱 I’m currently learning ...3D modeling with blender
