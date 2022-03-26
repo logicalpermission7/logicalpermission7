@@ -1,7 +1,7 @@
 ### Hi there my name is Elvis! 👋
 
 
-(https://giphy.com/embed/NQDgko8SLF9HWI4TfW)
+
 
 
 - 🔭 I’m currently working on ...The WEB3
