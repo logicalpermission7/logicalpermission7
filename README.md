@@ -1,7 +1,7 @@
 ### Hi there my name is Elvis! 👋
 
 
-<img src="https://giphy.com/embed/1gUWd4WvTmZjNDz739/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/1gUWd4WvTmZjNDz739/giphy.gif" width="40" height="40" />
 
 - 🔭 I’m currently working on ...The WEB3
 - 🌱 I’m currently learning ...3D modeling with blender
