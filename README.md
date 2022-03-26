@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[Email](iamelvisbueno@gmail.com)  /   [Twitter](https://twitter.com/ItsMeCobra100)
 - 😄 Pronouns: ...HE/HIM
-- ⚡ Fun fact: ... 5 Tour Combat Vet and COD Warzone Player. Send invite! I am Cobra!
+- ⚡ Fun fact: ... 5 Combat deployments and a COD Warzone Player. Send invite! I am Cobra!
 <img src="https://media.giphy.com/media/1gUWd4WvTmZjNDz739/giphy.gif" width="100" height="100" />
 
 
