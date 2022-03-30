@@ -1,4 +1,5 @@
 ### Hi there my name is Elvis! 👋
+go check out my API on Rapid API...(https://rapidapi.com/elvisbueno1010/api/crypto-news-live7/)
 
 
 
