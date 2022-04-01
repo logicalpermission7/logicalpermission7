@@ -1,4 +1,4 @@
-<h1 align="center">👨🏾‍💻 Hi there my name is Elvis! 👋</h1>
+<h1 align="center">👨🏾‍💻 Hi there 👋</h1>
 
 I'm Elvis from Tennessee, and I am a software engineer who loves creating content and development. Welcome to my GitHub.
 
