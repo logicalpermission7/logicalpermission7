@@ -1,7 +1,7 @@
 <h1 align="center">👨🏾‍💻 Hi there 👋</h1>
 
 I'm Elvis from Tennessee, and I am a software engineer who loves creating content and development. Welcome to my GitHub.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicalpermission7)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...The WEB3
 - 🌱 I’m currently learning ...3D modeling with blender
