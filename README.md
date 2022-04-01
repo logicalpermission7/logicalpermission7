@@ -1,5 +1,5 @@
 <h1 align="center">👨🏾‍💻 Hi there my name is Elvis! 👋</h1>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicalpermission7)](https://github.com/logicalpermission7/github-readme-stats)
 
 
 
