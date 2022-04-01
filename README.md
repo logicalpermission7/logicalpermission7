@@ -19,3 +19,5 @@ Skills: DESIGN / REACT / JS / HTML5 / CSS / PYTHON
 <img src="https://media.giphy.com/media/1gUWd4WvTmZjNDz739/giphy.gif" width="100" height="100" />
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elvis-bueno-37476b63//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ItsMeCobra100)  
+
