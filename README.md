@@ -6,9 +6,9 @@ I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I gr
 
 
 - 🔭 I’m currently working on ...My own company
-- 🌱 I’m currently learning ...3D modeling with blender
-- 👯 I’m looking to collaborate on ... A WEB3 project
-- 🤔 I’m looking for help with ... Monitizing something great!
+- 🌱 I’m currently learning ...Web3.0
+- 👯 I’m looking to collaborate with...You!
+- 🤔 I’m looking for help with ... Time Travel
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[Twitter](https://twitter.com/ItsMeCobra100)
 - 😄 Pronouns: ...HE/HIM
