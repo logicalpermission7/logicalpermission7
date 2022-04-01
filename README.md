@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Elvis
 #### Design and Development
-Skills: DESIGN / REACT / JS / HTML5 / CSS / PYTHON ![Design and Development](https://pbs.twimg.com/profile_banners/1437817542387585031/1648610852/1500x500)
+![Design and Development](https://pbs.twimg.com/profile_banners/1437817542387585031/1648610852/1500x500)
 
 I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science and Information Systems and a Minor in Mobile Development. I love helping others, solving problems, creating content, and innovation. 
 
