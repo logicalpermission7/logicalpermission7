@@ -1,4 +1,4 @@
-###👨🏾‍💻 Hi there 👋
+<h2>👨🏾‍💻 Hi there 👋</h2>
 
 I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Autin Peay State University with a degree in Computer Science and Information Systems with a Minor in Mobile Development. I love solving problems, creating content and innovation. I've built applications for Apple and Android, all sorts of websites, Weather Apps, Games, Sport Applications and API's published on RapidAPI. I will continue to build and innovate because I love technology and how it has helped us humans communicate and share.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicalpermission7)](https://github.com/anuraghazra/github-readme-stats)
