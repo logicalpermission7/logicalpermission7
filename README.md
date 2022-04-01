@@ -5,11 +5,6 @@
 I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science and Information Systems and a Minor in Mobile Development. I love helping others, solving problems, creating content, and innovation. 
 
 Skills: DESIGN / REACT / JS / HTML5 / CSS / PYTHON 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/logicalpermission7/logicalpermission7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elvis-bueno-37476b63//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ItsMeCobra100)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/logicalpermission7/logicalpermission7)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/logicalpermission7/logicalpermission7)  
 
 - 🔭 I’m currently working on ...My own company
 - 🌱 I’m currently learning ...3D modeling with blender
