@@ -3,8 +3,7 @@
 ![Design and Development](https://pbs.twimg.com/profile_banners/1437817542387585031/1648795464/1500x500)
 
 I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science / Information Systems and a Minor in Mobile Development. I love helping others, solving problems, creating content, gamming and innovation. 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicalpermission7)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...My own company
 - 🌱 I’m currently learning ...Web3.0
 - 👯 I’m looking to collaborate with...You!
