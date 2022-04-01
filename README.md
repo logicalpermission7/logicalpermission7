@@ -4,7 +4,7 @@
 
 I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science / Information Systems and a Minor in Mobile Development. I love helping others, solving problems, creating content, gamming and innovation. 
 
-- 🔭 I’m currently working on ...My own company(Cat Furniture)
+- 🔭 I’m currently working on ...My own company(😽 Cat Furniture)
 - 🌱 I’m currently learning ...Web3.0
 - 👯 I’m looking to collaborate with...You!
 - 🤔 I’m looking for help with ... Time Travel
