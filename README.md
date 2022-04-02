@@ -1,7 +1,7 @@
 <h2>Hi 👨🏾‍💻 there 👋, my name is Elvis</h2>
 
 
-#### Design, Development, Innovation and Awsome Engineering
+#### FULL STACK ENGINEER (MERN STACK) / DESIGN AND DEVLOPMENT
 ![Design and Development](https://pbs.twimg.com/profile_banners/1437817542387585031/1648795464/1500x500)
 
 I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science  / Information Systems and a Minor in Mobile Development. I have an array of skills when it comes to programming and a keen eye for development. Because of my hard work and passion, in not only solving complex problems but ultimatly helping others by creating technology people love.
