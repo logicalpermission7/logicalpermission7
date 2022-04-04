@@ -4,7 +4,7 @@
 #### FULL STACK ENGINEER (MERN STACK) / DESIGN AND DEVLOPMENT
 ![Design and Development](https://pbs.twimg.com/profile_banners/1437817542387585031/1648795464/1500x500)
 
-I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science  / Information Systems and a Minor in Mobile Development. I have an array of skills when it comes to programming and a keen eye for development. Because of my hard work and passion, in not only solving complex problems but ultimatly helping others by creating technology people love.
+I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science  / Information Systems and a Minor in Mobile Development. I have an array of skills and experience when it comes to programming and development. I love solving complex problems but ultimatly helping others by creating technology people love.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logicalpermission7)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...My own company(😽 Cat Furniture)
