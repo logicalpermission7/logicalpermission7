@@ -2,7 +2,7 @@
 
 
 #### FULL STACK ENGINEER / DESIGN AND DEVLOPMENT
-![Design and Development](https://pbs.twimg.com/profile_banners/1437817542387585031/1650286658/1500x500)
+![Design and Development](https://pbs.twimg.com/profile_banners/1437817542387585031/1650376780/1500x500)
 
 I'm Elvis from Tennessee, a US ARMY Veteran who is now a software engineer. I graduated from Austin Peay State University with a degree in Computer Science  / Information Systems and a Minor in Mobile Development. I have an array of skills and experience when it comes to programming and development. I love solving complex problems but ultimatly helping others by creating technology people love.
 
