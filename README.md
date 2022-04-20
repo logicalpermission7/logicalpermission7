@@ -1,4 +1,4 @@
-<h2>Hi 👨🏾‍💻 there 👋, my name is Elvis and I can be your Super Hero</h2>
+<h2>Hi 👨🏾‍💻 there 👋, my name is Elvis a Super Hero</h2>
 
 
 #### FULL STACK ENGINEER / DESIGN AND DEVLOPMENT
