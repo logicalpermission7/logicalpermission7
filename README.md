@@ -1,4 +1,4 @@
-<h2>Hi 👨🏾‍💻 there 👋, my name is Elvis and my kids tell me I am a True Super Hero</h2>
+<h2>Hi 👨🏾‍💻 there 👋, my name is Elvis</h2>
 
 
 #### FULL STACK ENGINEER / DESIGN AND DEVLOPMENT
